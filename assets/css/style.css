@@ -25,4 +25,20 @@ body {
     height: 60px; /* Set the fixed height of the footer here */
     line-height: 60px; /* Vertically center the text there */
     background-color: #f5f5f5;
+    text-align: center;
+}
+
+
+/* Other classes */
+.container {
+    max-width: 960px;
+}
+
+.projectName {
+    background-color: #4aaaa5;
+    bottom: 50px;
+    color: white;
+    max-width: 300px;
+    position: relative;
+    text-align: center;
 }
