@@ -1,6 +1,14 @@
 /* HTML Elements */
+a:link {
+    color: white;
+}
+
 body {
     background: url("../images/funky_lines.png");
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
 main {
@@ -38,7 +46,6 @@ body {
     background-color: #4aaaa5;
     bottom: 50px;
     color: white;
-    max-width: 300px;
     position: relative;
     text-align: center;
 }
