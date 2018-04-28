@@ -42,10 +42,20 @@ body {
     max-width: 960px;
 }
 
+.portfolio-image {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.project-container {
+    margin-top: 20px;
+}
+
 .projectName {
     background-color: #4aaaa5;
     bottom: 50px;
     color: white;
-    position: relative;
+    position: absolute;
     text-align: center;
+    width: 300px; 
 }
